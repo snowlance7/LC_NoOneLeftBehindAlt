@@ -38,6 +38,7 @@ namespace LC_NoOneLeftBehindAlt
                 Logger.LogInfo((object)"Teleporting player back to the ship...");
                 tpPlayer?.Invoke(__instance, null);
             }
+            aparatusTaken = false;
         }
     }
 }
