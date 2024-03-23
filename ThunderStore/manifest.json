@@ -1,6 +1,6 @@
 {
   "name": "LC_NoOneLeftBehindAlt",
-  "version_number": "1.0.2",
+  "version_number": "1.0.4",
   "website_url": "https://github.com/snowlance7/LC_NoOneLeftBehindAlt",
   "description": "Alt version of LC_NobodyLeftBehind by STAR_B that only teleports you if the apparatus hasnt been taken.",
   "dependencies": [
